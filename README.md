@@ -1,1 +1,1 @@
-"Rezolvare problema 4 pentru intership UMT" 
+Rezolvare problema 4 pentru intership UMT
